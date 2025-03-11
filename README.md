@@ -5,3 +5,16 @@ Connexio connect.py
 Prueba taula 1 con info de Roger
 ![Captura desde 2025-03-11 16-34-00](https://github.com/user-attachments/assets/175fcffb-9975-4162-ada2-54b0f2c491cd)
 
+Captura de pantalla una vegada hem canviat el contingut del main
+![Captura desde 2025-03-11 16-39-28](https://github.com/user-attachments/assets/98d37c50-bcfe-4554-84e5-3ebc3402b741)
+
+Inserts de la taula clients a la base
+![Captura desde 2025-03-11 16-54-12](https://github.com/user-attachments/assets/1cdce293-ecac-4bb1-91ed-67a587792432)
+![Captura desde 2025-03-11 16-57-36](https://github.com/user-attachments/assets/e05dcec5-d2e7-4eb7-946b-8c33c6d5af05)
+
+En la següent captura ens mostra el contingut de la taula de la base de dades de forma ordenada
+![Captura desde 2025-03-11 17-01-21](https://github.com/user-attachments/assets/166eb624-8a44-4815-94a3-0f14fcc2c761)
+
+
+
+
