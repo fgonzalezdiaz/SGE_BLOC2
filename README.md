@@ -15,6 +15,11 @@ Inserts de la taula clients a la base
 En la següent captura ens mostra el contingut de la taula de la base de dades de forma ordenada
 ![Captura desde 2025-03-11 17-01-21](https://github.com/user-attachments/assets/166eb624-8a44-4815-94a3-0f14fcc2c761)
 
+Prova de funcionament de l'update
+![image](https://github.com/user-attachments/assets/9fad9792-38e0-448e-b762-3259168c46eb)
 
+Prova funcionament del delete 
+![image](https://github.com/user-attachments/assets/dc85b2f4-16c4-44a0-a2d1-2493d02a53c6)
+![image](https://github.com/user-attachments/assets/3d93b508-15cf-4879-8fbe-56e0c16fce15)
 
 
