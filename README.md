@@ -22,4 +22,9 @@ Prova funcionament del delete
 ![image](https://github.com/user-attachments/assets/dc85b2f4-16c4-44a0-a2d1-2493d02a53c6)
 ![image](https://github.com/user-attachments/assets/3d93b508-15cf-4879-8fbe-56e0c16fce15)
 
+Imatge on es veu que Roger i Martin han estat eliminats i els scripts funcionen:
+![image](https://github.com/user-attachments/assets/a3222656-1e18-49f7-a40c-4aef7bd73bd3)
+![image](https://github.com/user-attachments/assets/13f59fe9-0db7-47b9-bc79-56538864d593)
+
+
 
