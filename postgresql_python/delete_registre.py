@@ -6,7 +6,7 @@ def delete_reg():
 
     sql_delete = '''
     DELETE FROM clientes
-    where id_cliente = 28
+    where "nombre_cliente" = 'Roger';
     '''
 
     cursor.execute(sql_delete)

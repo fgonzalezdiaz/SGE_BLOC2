@@ -5,7 +5,7 @@ def update_reg():
     sql_update = '''
     UPDATE clientes
     SET teléfono_cliente = 000000000
-    WHERE id_cliente = 1
+    WHERE "nombre_cliente" = 'Martin';
     '''
     cursor.execute(sql_update)
     conn.commit()
